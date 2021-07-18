@@ -1,0 +1,5 @@
+%{
+  "png": {:git, "https://github.com/yuce/png.git", "d587509b03c804c84af7a1b8298d618e7b26fec3", []},
+  "png2": {:hex, :png2, "1.0.0", "054dd803cd8a3dcd7d2f29e9a664cf0242da167446609f8734f88f9fe3242f60", [:mix], [], "hexpm", "9dfd5c092c4875cacb9659d3044d1737ea9c52b88788534e2e45603ebe04354e"},
+  "pngex": {:hex, :pngex, "0.1.1", "e634dba33eeaf90befa028232bed15ec6f4a2a145859b006efafc788c9809175", [:mix], [], "hexpm", "1142d3541f78fd904bdff8a104c11378f831f56e13ae30b646be86480e1bacf6"},
+}
